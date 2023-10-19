@@ -21,9 +21,9 @@ Fun facts:
 
 ---
 
-ⓒ2023 CyberHubSyndicate
-
 ![foundry logo](https://github.com/FoundryXR/.github/assets/43615314/4f531979-6d24-4bb9-950c-ad88f5631313)
+
+ⓒ2023 CyberHubSyndicate
 
 <!--
 

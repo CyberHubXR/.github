@@ -1,6 +1,6 @@
 ## Hi 👋 We're CyberHub!
 
-CyberHub is a studio dediated to making XR multiplayer as easy as possible, one of the ways we're trying to do this is with Foundry.
+CyberHub is a studio dedicated to making XR multiplayer as easy as possible, one of the ways we're trying to do this is with Foundry.
 
 Foundry, is an open source multiplayer VR Unity template designed to help developers create a more fair and enjoyable metaverse for creators and users.
 

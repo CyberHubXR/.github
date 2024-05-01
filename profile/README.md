@@ -2,7 +2,7 @@
 
 CyberHub is a studio dedicated to making spatial multiplayer as easy as possible, one of the ways we're trying to do this is with Brane.
 
-Foundry is a set of backend services (Database, Runtime Networking, CDN, etc) that encompassas all you need to get your multiplayer spatial application up and running.
+Brane is a set of backend services (Database, Runtime Networking, CDN, etc) that encompassas all you need to get your multiplayer spatial application up and running.
 
 We want to prove that making a multiplayer VR game doesn't have to be hard...
 

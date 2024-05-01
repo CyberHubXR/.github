@@ -12,7 +12,7 @@ Learn more at [https://cyberhubxr.com/](CyberHubXR.com)
 
 ---
 
-[You can find our docs here](https://dev.cyberhubxr.com)
+[You can find our docs here](https://dev.cyberhubxr.com)!
 
 For early access and quick help, [join our discord](https://discord.gg/FJUNGXvNf8/)!
 

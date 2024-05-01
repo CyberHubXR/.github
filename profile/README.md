@@ -1,18 +1,20 @@
 ## Hi 👋 We're CyberHub!
 
-CyberHub is a studio dedicated to making XR multiplayer as easy as possible, one of the ways we're trying to do this is with Foundry.
+CyberHub is a studio dedicated to making spatial multiplayer as easy as possible, one of the ways we're trying to do this is with Brane.
 
-Foundry, is an open source multiplayer VR Unity template designed to help developers create a more fair and enjoyable metaverse for creators and users.
+Foundry is a set of backend services (Database, Runtime Networking, CDN, etc) that encompassas all you need to get your multiplayer spatial application up and running.
 
 We want to prove that making a multiplayer VR game doesn't have to be hard...
 
-Our template is maintained by a team of experienced VR developers and comes with a custom VR rig, sample scripts, and integration with Photon multiplayer. With the ability to support up to 40 players in one instance, our template is also equipped with ready-to-use social VR assets. It's the perfect starting point for your VR project.
+We also provide a template, Foundry, which is maintained by a team of experienced VR developers and comes with a custom VR rig, sample scripts, and integration with our multiplayer and backend services. With the ability to support up to 40 players in one instance, our template is also equipped with ready-to-use social VR assets. It's the perfect starting point for your VR project.
 
-Learn more at [https://BuildWithFoundry.com/](https://buildwithfoundry.com/)
+Learn more at [https://cyberhubxr.com/](CyberHubXR.com)
 
 ---
 
-**Tutorials and Docs coming soon. Sign-up for [our newsletter](https://www.foundryvr.dev/) for announcements.**
+(You can find our docs here)[https://dev.cyberhubxr.com]
+
+For early access and quick help, (join our discord)[https://discord.gg/FJUNGXvNf8/]!
 
 ---
 Fun facts:
@@ -22,6 +24,8 @@ Fun facts:
 * Foundry was used in Big Rock Creative's Auggie award winning Burning Man experience at AWE: [Auggie award winners](https://www.awexr.com/blog/Auggie-Awards-Winners-at-AWE-USA-2023)
 
 ---
+
+![White-on-Black-Large-Cutout](https://github.com/CyberHubXR/.github/assets/43615314/18a4b321-70d3-46d3-9187-f90c3af3a207)
 
 ![foundry logo](https://github.com/FoundryXR/.github/assets/43615314/4f531979-6d24-4bb9-950c-ad88f5631313)
 

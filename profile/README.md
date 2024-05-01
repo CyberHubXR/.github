@@ -8,7 +8,7 @@ We want to prove that making a multiplayer VR game doesn't have to be hard...
 
 We also provide a template, Foundry, which is maintained by a team of experienced VR developers and comes with a custom VR rig, sample scripts, and integration with our multiplayer and backend services. With the ability to support up to 40 players in one instance, our template is also equipped with ready-to-use social VR assets. It's the perfect starting point for your VR project.
 
-Learn more at [https://cyberhubxr.com/](CyberHubXR.com)
+Learn more at [CyberHubXR.com](https://CyberHubXR.com/product)
 
 ---
 

@@ -1,12 +1,12 @@
 ## Hi 👋 We're CyberHub!
 
-CyberHub is a studio dedicated to making spatial multiplayer as easy as possible, one of the ways we're trying to do this is with Brane.
+CyberHub is a studio dedicated to making spatial multiplayer as easy as possible, one of the ways we're trying to do this is with Foundry.
 
-Brane is a set of backend services (Database, Runtime Networking, CDN, etc) that encompassas all you need to get your multiplayer spatial application up and running.
+Foundry is a set of backend services (Database, Runtime Networking, CDN, etc) that encompasses all you need to get your multiplayer spatial application up and running.
 
 We want to prove that making a multiplayer VR game doesn't have to be hard...
 
-We also provide a template, Foundry, which is maintained by a team of experienced VR developers and comes with a custom VR rig, sample scripts, and integration with our multiplayer and backend services. With the ability to support up to 40 players in one instance, our template is also equipped with ready-to-use social VR assets. It's the perfect starting point for your VR project.
+We also provide a template which is maintained by a team of experienced VR developers and comes with a custom VR rig, sample scripts, and integration with our multiplayer and backend services. With the ability to support up to 40 players in one instance, our template is also equipped with ready-to-use social VR assets. It's the perfect starting point for your VR project.
 
 Learn more at [CyberHubXR.com](https://CyberHubXR.com/product)
 
@@ -19,9 +19,9 @@ For early access and quick help, [join our discord](https://discord.gg/FJUNGXvNf
 ---
 Fun facts:
 
-* Foundry was used in the Grand Prize winning project, Failtopia, at the MIT Reality Hack. [Read the story here.](https://nowandten.substack.com/p/winning-the-reality-hack-in-my-heart)
+* Foundry was used in the Grand Prize-winning project, Failtopia, at the MIT Reality Hack. [Read the story here.](https://nowandten.substack.com/p/winning-the-reality-hack-in-my-heart)
 
-* Foundry was used in Big Rock Creative's Auggie award winning Burning Man experience at AWE: [Auggie award winners](https://www.awexr.com/blog/Auggie-Awards-Winners-at-AWE-USA-2023)
+* Foundry was used in Big Rock Creative's Auggie award-winning Burning Man experience at AWE: [Auggie award winners](https://www.awexr.com/blog/Auggie-Awards-Winners-at-AWE-USA-2023)
 
 ---
 
